@@ -2,7 +2,7 @@
 
 This project contains APIs using .Net Core and EntityFramework Core.
 
-#Building Sample for DB
+# Building Sample for DB
 .NET Core Article sample using the .NET Core CLI, and installed .net core sdk. 
 
 ```
@@ -18,6 +18,7 @@ dotnet ef database update
 ### Endpoint Structure
 
 https://[baseUrl]/api/[controller]/{id}
+
 Ex:
 https://[baseUrl]/api/article/3
 
